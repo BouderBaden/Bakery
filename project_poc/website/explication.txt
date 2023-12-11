@@ -1,0 +1,11 @@
+Bonjour Mr.
+
+Donc j'ai réussi à faire les 3 parties princaple, j'ai commencé par la première en m'aidant pas mal de mon code disney+, sutout au niveaux des flex et des blocks.
+
+La seconde partie c'était similaire au logo Marvel, Pixar, etc... de celui-ci
+
+la troisième était comme la première, divisé en deux. Seul compléxité, faire un background blanc qui commence au début de la dernière div. 
+
+Avec 10 minute de plus j'aurrais pu corriger que le dernier bouton "View Products", je ne sais pas pourquoi il a agit différament de celui utiliser dans la première partie.
+
+En ce qui concerne le fond blanc, aucune idée du temps additionnel requis, faudrais simplement trouvé la solution.
